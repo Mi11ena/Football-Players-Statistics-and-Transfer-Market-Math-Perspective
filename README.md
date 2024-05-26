@@ -1,4 +1,3 @@
-```markdown
 # Football Players Statistics
 # Transfer Market Math-Perspective
 HSE Third Year Terms Project
